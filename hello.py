@@ -16,7 +16,7 @@ def main():
     w = QtGui.QWidget()
     w.resize(450, 450)
     w.move(300, 300)
-    w.setWindowTitle('Simple')
+    w.setWindowTitle('Simple HELLO')
     w.show()
 
 
